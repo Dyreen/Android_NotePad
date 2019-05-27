@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="back">Back</string>
+    <string name="title">Title</string>
+    <string name="button_save">Save</string>
+    <string name="add_note">Add Note</string>
+    <string name="my_note">My Note</string>
+    <string name="note">Note...</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="add_voice">Add Voice Note</string>
+</resources>
